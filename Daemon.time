@@ -4,5 +4,5 @@
      W |      6                  | 08:00 | C:\test\proc1_weekly.bat
      D |      -                  | 10:35 | C:\test\proc2_daily.bat
      Q |      40                 | 13:00 | C:\test\proc3_quarterly.bat
-     M |      10                  | 18:00 | C:\test\proc4_monthly.bat
+     M |      10                 | 18:00 | C:\test\proc4_monthly.bat
 *-------------------------------------------------------------------------------
